@@ -5,7 +5,7 @@
  Um Blog de notícias referente a tecnologia, criado no curso para trabalhar com links e colunas.
 
    <h1>
-    <img src="https://user-images.githubusercontent.com/93000587/163658123-5347a24d-8142-405b-a4f3-07278c11f05f.gif">
+    <img src="https://user-images.githubusercontent.com/93000587/163658920-b25d56cb-ec62-4c00-b244-7312d70b7241.gif">
    </h1>
 
 
